@@ -6,12 +6,13 @@ a test app for twitter api and nodejs for oikos
 - Go to https://dev.twitter.com/, and scroll to the very bottom footer and click on "Manage Your Apps"
 - Find the grey button for "create new app"
 - Follow the instructions and then navigate to the tab header "Keys and Access Tokens". Click any "create access tokens" if those links are showing and you do not have tokens yet.
+
 ### Install dependencies
 - npm install twit a npm module for twitter api
 - how to use twit module here --> https://github.com/ttezel/twit
 
 
-### How it works
+# How it works
 
 ### app.js
 - dry run for twitter api using dynamic variable assignee only
