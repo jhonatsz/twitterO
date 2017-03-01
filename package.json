@@ -1,0 +1,26 @@
+{
+  "name": "twittero",
+  "version": "1.0.0",
+  "description": "a test script for twitter api + nodejs for oikos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonhoward/twitterO.git"
+  },
+  "author": "Jhonathan Howard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonhoward/twitterO/issues"
+  },
+  "homepage": "https://github.com/jhonhoward/twitterO#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
